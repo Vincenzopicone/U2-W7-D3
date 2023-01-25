@@ -1,0 +1,26 @@
+[
+    {
+        "team": "Juventus",
+        "year": 1897,
+        "captain": ["Danilo", "Bonucci", "Alex Sandro"],
+        "cup": [{"scudetti": 38}, {"championsLeague": 2}, {"coppaItalia": 14}]
+    },
+    {
+        "team": "Napoli",
+        "year": 1952,
+        "captain": ["Di Lorenzo", "Zielinsky", "Politano"],
+        "cup": [{"scudetti": 2}, {"championsLeague": 0}, {"coppaItalia": 4}]
+    },
+    {
+        "team": "Milan",
+        "year": 1899,
+        "captain": ["Calabria", "Tonali", "Kjaer"],
+        "cup": [{"scudetti": 19}, {"championsLeague": 7}, {"coppaItalia": 5}] 
+    },
+    {
+        "team": "Roma",
+        "year": 1905,
+        "captain": ["Pellegrini", "Mancini", "Cristante"],
+        "cup": [{"scudetti": 2}, {"championsLeague": 0}, {"coppaItalia": 3}] 
+    }
+]

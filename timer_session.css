@@ -1,0 +1,25 @@
+body {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    width: 50%;
+    text-align: center;
+    margin-top: 150px;
+    padding: 30px ;
+    border-radius: 50px;
+    background-color: salmon;
+    color: black;
+}
+
+#timer {
+    font-size: 10em;
+
+}
+
+section h2 {
+    font-size: 3em;
+}

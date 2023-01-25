@@ -1,0 +1,26 @@
+[
+    {
+        "title":"Avatar",
+        "duration":"2.35.36",
+        "genre":"fantasy",
+        "years": 2022
+    },
+    {
+        "title":"La vita è bella",
+        "duration":"2.02.35",
+        "genre":"drammatico",
+        "years": 1997
+    },
+    {
+        "title":"Le Ali della libertà",
+        "duration":"3.05.21",
+        "genre":"drammatico",
+        "years": 1994
+    },
+    {
+        "title":"Il cavaliere oscuro",
+        "duration":"1.57.02",
+        "genre":"action",
+        "years": 1993
+    }
+]

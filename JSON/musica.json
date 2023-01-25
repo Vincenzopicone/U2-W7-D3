@@ -1,0 +1,44 @@
+[
+{
+    "artist":"Blanco",
+    "album": "Blu Celeste",
+    "duration" : "50.23",
+    "years": 2021,
+    "genre": "pop",
+    "tracks": [ 
+    "Blu Celeste",
+    "Notti in Bianco",
+    "Finchè non mi seppelliscono",
+    "Mi fai impazzire"
+    ]
+},
+
+{
+    "artist":"Jason Derulo",
+    "album": "Night",
+    "duration" : "30.25",
+    "years": 2017,
+    "genre": "pop",
+    "tracks": [ 
+    "Watcha Say",
+    "Ridin' Solo",
+    "In my head",
+    "What if"
+    ]
+},
+
+{
+    "artist":"Coldplay",
+    "album": "Music of the Spheres",
+    "duration" : "41.54",
+    "years": 2021,
+    "genre": "pop",
+    "tracks": [ 
+    "Higher Power",
+    "Humankind",
+    "Infinity sign",
+    "Coloratura"
+    ]
+}
+
+]
